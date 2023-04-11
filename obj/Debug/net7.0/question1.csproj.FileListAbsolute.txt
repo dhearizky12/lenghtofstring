@@ -1,0 +1,15 @@
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/obj/Debug/net7.0/question1.csproj.AssemblyReference.cache
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/obj/Debug/net7.0/question1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/obj/Debug/net7.0/question1.AssemblyInfoInputs.cache
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/obj/Debug/net7.0/question1.AssemblyInfo.cs
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/obj/Debug/net7.0/question1.csproj.CoreCompileInputs.cache
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/bin/Debug/net7.0/question1
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/bin/Debug/net7.0/question1.deps.json
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/bin/Debug/net7.0/question1.runtimeconfig.json
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/bin/Debug/net7.0/question1.dll
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/bin/Debug/net7.0/question1.pdb
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/obj/Debug/net7.0/question1.dll
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/obj/Debug/net7.0/refint/question1.dll
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/obj/Debug/net7.0/question1.pdb
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/obj/Debug/net7.0/question1.genruntimeconfig.cache
+/Users/fikyfatih/Developer/Bootcamp_Formulatrix/question1/obj/Debug/net7.0/ref/question1.dll
